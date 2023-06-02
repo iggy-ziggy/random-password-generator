@@ -20,3 +20,9 @@ MIT
 ## Features
 
 Ability to generate random password based on individually selected criteria.
+
+## Credits
+
+Developed with the assistance of:
+Michael Hodges
+Sheetal Srikumar
